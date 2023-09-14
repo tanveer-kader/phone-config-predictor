@@ -1,4 +1,6 @@
-﻿# Phone Price Segmentation using Machine Learning
+﻿![cover](cover/cover.png)
+
+# Phone Price Segmentation using Machine Learning
 
 - Train Dataset was categorised in 4 groups of price range
 
