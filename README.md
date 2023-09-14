@@ -1,4 +1,4 @@
-﻿![cover](cover/cover.png)
+﻿![cover](cover/phone_cover.png)
 
 # Phone Price Segmentation using Machine Learning
 
